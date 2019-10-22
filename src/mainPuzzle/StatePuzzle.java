@@ -50,7 +50,6 @@ public class StatePuzzle {
 			   
                             System.out.print(" |  " + this.state[i][j] + "  |  ");
                             
-                            
 			}
 			System.out.print("\n");
 		}
@@ -158,7 +157,6 @@ public class StatePuzzle {
 	public boolean isSolvable() {
 	
 		int invCount = this.getInvCount(this.state);
-
 	
 		return (invCount % 2 == 0);
 	}
