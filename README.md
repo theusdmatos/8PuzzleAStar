@@ -7,3 +7,5 @@ Solving the 8 puzzle using A* (a star) algorithm. Various heuristics were used a
 ![Screenshot_20191021_222722(1)](https://user-images.githubusercontent.com/37044387/67254558-1186fc00-f454-11e9-9d13-ebebf3d6805e.png)
 
 IDE used: Netbeans
+#
+Distro used: Arch Linux - KDE
